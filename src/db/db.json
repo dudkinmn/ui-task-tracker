@@ -1,0 +1,319 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "David",
+      "lastName": "Bowie",
+      "email": "david.bowie@abc.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Air",
+      "email": "jane.air@cde.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Rabbit",
+      "email": "alice.rabbit@fgh.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Dilan",
+      "email": "bob.dilan@xyz.com",
+      "password": "123456"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "owner_id": "1",
+      "name": "task11awdawdweew",
+      "description": "desc11qwe",
+      "date": "d111",
+      "priority": "Высокий",
+      "timePlanned": "pt111",
+      "timeElapsed": "ct111",
+      "status": "Готово",
+      "time_planned": "ww"
+    },
+    {
+      "id": "2",
+      "owner_id": "1",
+      "name": "task222",
+      "description": "desc222",
+      "date": "adasdasd",
+      "priority": "Средний",
+      "timePlanned": "sdfsdfsdf",
+      "timeElapsed": "ssdfsdfsdf",
+      "status": "В работе"
+    },
+    {
+      "id": "3",
+      "owner_id": "1",
+      "name": "zxbaegbagarae",
+      "description": "desc333",
+      "date": "date333",
+      "priority": "Низкий",
+      "timePlanned": "ptime333",
+      "timeElapsed": "ctime333",
+      "status": "Готово"
+    },
+    {
+      "id": "4",
+      "owner_id": "4",
+      "name": "444task",
+      "description": "adawdawdawd",
+      "date": "adasdasd",
+      "priority": "Низкий",
+      "timePlanned": "sdfsdfsdf",
+      "timeElapsed": "ssdfsdfsdf",
+      "status": "План"
+    },
+    {
+      "id": "5",
+      "owner_id": "4",
+      "name": "555task",
+      "description": "adawdawdawd",
+      "date": "adasdasd",
+      "priority": "Низкий",
+      "timePlanned": "sdfsdfsdf",
+      "timeElapsed": "ssdfsdfsdf",
+      "status": "Готово"
+    },
+    {
+      "id": "6",
+      "owner_id": "4",
+      "name": "666task",
+      "description": "adawdawdawd",
+      "date": "adasdasd",
+      "priority": "Средний",
+      "timePlanned": "sdfsdfsdf",
+      "timeElapsed": "ssdfsdfsdf",
+      "status": "В работе"
+    },
+    {
+      "owner_id": 1,
+      "name": "task44",
+      "description": "desc44",
+      "priority": "Средний",
+      "date": "1",
+      "timePlanned": "2",
+      "timeElapsed": "3",
+      "id": "DzFJFZE",
+      "status": "Готово"
+    },
+    {
+      "owner_id": 1,
+      "name": "t6",
+      "description": "666",
+      "priority": "Средний",
+      "date": "awdawd",
+      "timePlanned": "awd",
+      "timeElapsed": "AWd",
+      "id": "MiPRnmD",
+      "status": "План"
+    },
+    {
+      "owner_id": 1,
+      "name": "88",
+      "description": "77",
+      "priority": "Высокий",
+      "status": "Готово",
+      "date": "777",
+      "timePlanned": "77",
+      "timeElapsed": "77",
+      "id": "tj_WJIe"
+    },
+    {
+      "owner_id": 1,
+      "name": "00999",
+      "description": "77",
+      "priority": "Высокий",
+      "status": "План",
+      "date": "777",
+      "timePlanned": "77",
+      "timeElapsed": "77",
+      "id": "a8zTb-z"
+    },
+    {
+      "owner_id": 1,
+      "name": "77",
+      "description": "77",
+      "priority": "Высокий",
+      "status": "План",
+      "date": "777",
+      "timePlanned": "77",
+      "timeElapsed": "77",
+      "id": "FPZPZNa"
+    },
+    {
+      "owner_id": 1,
+      "name": "77",
+      "description": "77wadawd",
+      "priority": "Высокий",
+      "status": "План",
+      "date": "777",
+      "timePlanned": "77",
+      "timeElapsed": "77",
+      "id": "DezYIax"
+    },
+    {
+      "owner_id": 1,
+      "name": "77",
+      "description": "77",
+      "priority": "Высокий",
+      "status": "Готово",
+      "date": "777",
+      "timePlanned": "77",
+      "timeElapsed": "77",
+      "id": "XGdoSpS"
+    },
+    {
+      "owner_id": 1,
+      "name": "sadfsdfs",
+      "description": "sadfasdwad",
+      "priority": "Высокий",
+      "status": "План",
+      "date": "sdfsdf",
+      "timePlanned": "dsf",
+      "timeElapsed": "sdfsdfsd",
+      "id": "YCFadix",
+      "time_planned": "w",
+      "time_elapsed": "w"
+    },
+    {
+      "owner_id": 1,
+      "name": "sadsd",
+      "date": "wd",
+      "status": "Готово",
+      "priority": "Средний",
+      "id": "OFqsNCE"
+    },
+    {
+      "owner_id": 1,
+      "description": "W2345234",
+      "date": "234",
+      "time_planned": "234",
+      "time_elapsed": "234",
+      "name": "234234",
+      "priority": "Средний",
+      "status": "План",
+      "id": "AGueY1I"
+    },
+    {
+      "owner_id": 1,
+      "description": "W2345234",
+      "date": "234",
+      "time_planned": "234",
+      "time_elapsed": "234",
+      "name": "234234",
+      "priority": "Высокий",
+      "status": "В работе",
+      "id": "OhXkdGY"
+    },
+    {
+      "owner_id": 1,
+      "description": "W2345234",
+      "date": "234",
+      "time_planned": "234",
+      "time_elapsed": "234",
+      "name": "234234",
+      "priority": "Низкий",
+      "status": "План",
+      "id": "zT1MFAS"
+    },
+    {
+      "owner_id": 1,
+      "name": "sefasedf",
+      "description": "asdfasdfsdf",
+      "priority": "Средний",
+      "status": "В работе",
+      "date": "sdfsdf",
+      "time_planned": "sdf",
+      "id": "2Zn04Qi"
+    },
+    {
+      "owner_id": 1,
+      "priority": "Низкий",
+      "status": "В работе",
+      "name": "awdawd",
+      "description": "awdawd",
+      "time_elapsed": "awdawd",
+      "time_planned": "awdaw",
+      "date": "dawdawda",
+      "id": "cAjjfVw"
+    },
+    {
+      "owner_id": 1,
+      "name": "wedrqw",
+      "priority": "Средний",
+      "status": "В работе",
+      "description": "w",
+      "date": "w",
+      "time_elapsed": "w",
+      "time_planned": "w",
+      "id": "rw_RTTD"
+    },
+    {
+      "owner_id": 1,
+      "name": "awdawdawdawd",
+      "description": "aww",
+      "priority": "Высокий",
+      "status": "В работе",
+      "date": "awd",
+      "time_elapsed": "awd",
+      "time_planned": "awd",
+      "id": "mJRRC_4"
+    },
+    {
+      "owner_id": 1,
+      "name": "awdawdawdawd",
+      "description": "aww",
+      "priority": "Высокий",
+      "status": "В работе",
+      "date": "awd",
+      "time_elapsed": "awd",
+      "time_planned": "awd",
+      "id": "IMzvmD5"
+    },
+    {
+      "owner_id": 1,
+      "name": "awdawdawdawd",
+      "description": "aww",
+      "priority": "Высокий",
+      "status": "В работе",
+      "date": "awd",
+      "time_elapsed": "awd",
+      "time_planned": "awd",
+      "id": "yKF6kU1"
+    },
+    {
+      "owner_id": 2,
+      "name": "awdsfea,k",
+      "description": "ikuuil",
+      "priority": "Средний",
+      "status": "В работе",
+      "date": "o",
+      "time_planned": "o",
+      "time_elapsed": "o",
+      "id": "mrmVHSL"
+    },
+    {
+      "owner_id": 2,
+      "name": "dvfsad",
+      "description": "sdfadf",
+      "priority": "Средний",
+      "status": "В работе",
+      "date": "date333",
+      "time_planned": "d",
+      "time_elapsed": "da",
+      "id": "KIruZ8Y"
+    }
+  ]
+}

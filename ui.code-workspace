@@ -1,0 +1,84 @@
+{
+  "folders": [
+    {
+      "name": "Корень проекта",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.encoding": "utf8",
+    "files.autoSave": "onWindowChange",
+    "todohighlight.isEnable": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "todohighlight.keywords": [
+      {
+        "text": "todo:",
+        "color": "red"
+      }
+    ],
+    "breadcrumbs.enabled": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "javascript.format.enable": false,
+    "typescript.format.enable": false,
+    "editor.formatOnSave": true,
+    "[handlebars]": { "editor.formatOnSave": false },
+    "editor.rulers": [100],
+    "workbench.activityBar.visible": true,
+    "editor.tabSize": 2,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.limit.enabled": true,
+    "files.eol": "\n",
+    "workbench.editor.enablePreview": false,
+    "files.watcherExclude": {
+      "/**/.git/**": true,
+      "/**/node_modules/**": true,
+      "/**/_release/**": true
+    },
+    "git.enableSmartCommit": true,
+    "git.promptToSaveFilesBeforeCommit": true,
+    "git.showPushSuccessNotification": true,
+    "git.detectSubmodulesLimit": 100,
+    "typescript.surveys.enabled": false,
+    "cSpell.language": "en,ru",
+    "cSpell.words": [
+      "Droppable",
+      "Signup",
+      "consts",
+      "devexpress",
+      "draggables",
+      "enumme",
+      "lightblue",
+      "lightgreen",
+      "lightgrey",
+      "lightyellow",
+      "автообновления"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "stevencl.adddoccomments",
+      "formulahendry.auto-close-tag",
+      "formulahendry.auto-rename-tag",
+      "coenraads.bracket-pair-colorizer",
+      "wmaurer.change-case",
+      "vikas.code-navigation",
+      "streetsidesoftware.code-spell-checker",
+      "rokoroku.vscode-theme-darcula",
+      "msjsdiag.debugger-for-chrome",
+      "dbaeumer.vscode-eslint",
+      "mhutchie.git-graph",
+      "eamodio.gitlens",
+      "k--kato.intellij-idea-keybindings",
+      "shd101wyy.markdown-preview-enhanced",
+      "esbenp.prettier-vscode",
+      "uyiosa-enabulele.reopenclosedtab",
+      "streetsidesoftware.code-spell-checker-russian",
+      "ms-ceintl.vscode-language-pack-ru",
+      "wayou.vscode-todo-highlight",
+      "pflannery.vscode-versionlens",
+      "visualstudioexptteam.vscodeintellicode",
+      "infeng.vscode-react-typescript"
+    ]
+  }
+}

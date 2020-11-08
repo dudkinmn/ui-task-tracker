@@ -1,0 +1,37 @@
+.taskForm {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.inputContainerLeft {
+  padding: 16px;
+  width: 500px;
+}
+.inputContainerMiddle {
+  padding: 16px;
+  width: 130px;
+}
+.inputContainerRight {
+  padding: 16px;
+  width: 170px;
+}
+
+.wrapContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.userData {
+  position: relative;
+  left: calc(50% - 500px);
+  width: 1000px;
+  height: 340px;
+  background: #ffffff;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 16px;
+}
